@@ -1,7 +1,19 @@
-opencv-python
-deepface
-ipywidgets
 numpy
 pandas
 matplotlib
+
+deepface==0.0.69
+opencv-python==4.7.0.72
+tensorflow==2.13.0
+tf-keras==0.1.0
+urllib3==1.26.15
+
+ipywidgets
 Pillow
+
+# try to install the latest version of the packages, 
+#if latest versions of these packages are not compatible with your system, 
+# then try to install given versions 
+# or try to install the versions that are compatible with your system
+
+# at least these versions works for me 
